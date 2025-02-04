@@ -67,7 +67,7 @@ SEARCH_URL = f"https://x.com/search?q=launch%2C%20solana%20%2C%20pump%20fun%20(l
 ## Running the Script
 Run the script from the terminal:
 ```sh
-python script.py
+python main.py
 ```
 
 The script will log new tweets that meet the filtering criteria.
